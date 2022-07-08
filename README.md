@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham
-- 👀 I’m interested in machine learning and competatice programming
+- 👀 I’m interested in machine learning and competative programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on mahine learning project
 - 📫 How to reach me skale5747@gmail.com
