@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soham, I possess expertise in MERN stack and (Python + Flask + FastAPI ) web development tools.
+- 👋 Hi, I’m Soham.
 - 🚀 Tech Stack Expertise: Proficient in MERN Stack for full-stack development and experienced in building scalable web applications using Python with Flask and FastAPI.
 - 🤖 Passion for Innovation: Enthusiastic about applying Machine Learning to solve real-world problems, while staying actively engaged in Competitive Programming to refine problem-solving skills.
 - 🛠 Current Focus: Developing robust, user-centric full-stack applications with modern tools and frameworks.
