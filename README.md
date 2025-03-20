@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Soham, I possess expertise in MERN stack and (Python + Flask + FastAPI ) web development tools.
-- 👀 I’m interested in machine learning, Full Stack Development and Competative Programming. 
-- 🌱 I’m currently working on Full Stack development Projects.
-- 💞️ I’m looking to collaborate on mahine learning project.
+- 🚀 Tech Stack Expertise: Proficient in MERN Stack for full-stack development and experienced in building scalable web applications using Python with Flask and FastAPI.
+- 🤖 Passion for Innovation: Enthusiastic about applying Machine Learning to solve real-world problems, while staying actively engaged in Competitive Programming to refine problem-solving skills.
+- 🛠 Current Focus: Developing robust, user-centric full-stack applications with modern tools and frameworks.
+- 🤝 Collaborative Spirit: Open to contributing to innovative Machine Learning projects and collaborating with like-minded professionals to drive impactful solutions.
 - 📫 How to reach me skale5747@gmail.com
 
 <!---
